@@ -5,4 +5,6 @@ Instale o Python: se você ainda não tiver instalado o Python, faça o download
 
 Instale o VS Code: se você ainda não tiver instalado o VS Code, faça o download no site oficial (https://code.visualstudio.com/download) e siga as instruções para instalar.
 
-nstale as dependências: instale as dependências necessárias para o projeto. Neste caso, precisaremos instalar o Selenium. 
+instale as dependências: instale as dependências necessárias para o projeto. Neste caso, precisaremos instalar o Selenium. 
+
+Executar o arquivo CT_Prova.py
